@@ -8,4 +8,4 @@ This repo is automatically pulled in and set up by running scripts contained in 
 
 ## Resources
 
-For additional details, please visit the [Chisel Learning Journey](https://github.com/librecores/riscv-sodor/wiki).
+For additional details, please visit the [Chisel Learning Journey](https://github.com/Intensivate/learning-journey/wiki).
